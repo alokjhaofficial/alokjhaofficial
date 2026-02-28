@@ -1,24 +1,28 @@
 <h1 align="center">Hi 👋 I'm Alok</h1>
-<h3 align="center">Cyber Defence Enthusiast | Future Security Analyst</h3>
+<h3 align="center">Cyber Defence Enthusiast | Future SOC Analyst</h3>
 
+---
+
+<!-- Animated Wave Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=1E90FF&center=true&vCenter=true&width=600&lines=Cyber+Defence+Learner;Blue+Team+Focused;SOC+Analyst+in+Progress;Protecting+Digital+Systems" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E90FF,100:00BFFF&height=200&section=header&text=Cyber%20Defence%20Mode%20Active&fontSize=30&fontColor=ffffff" />
+</p>
+
+---
+
+<!-- Typing Animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=1E90FF&center=true&vCenter=true&width=600&lines=Blue+Team+Focused;Threat+Detection+Learner;SOC+Analyst+in+Progress;Protecting+Digital+Systems" />
 </p>
 
 ---
 
 ## 🛡️ About Me
 
-I am focused on defensive cybersecurity — protecting systems, detecting threats, and strengthening digital infrastructure.
+Focused on defensive cybersecurity — detecting threats, monitoring systems, and strengthening digital infrastructure.
 
-Currently learning:
-- Network Security Fundamentals  
-- Security Monitoring & Logging  
-- Threat Detection Basics  
-- Linux & System Hardening  
-
-**Mission:**  
-> Detect. Defend. Secure. 🔐
+🎯 Mission:  
+> Detect. Defend. Secure.
 
 ---
 
@@ -41,24 +45,28 @@ Currently learning:
 
 ## 📊 GitHub Analytics
 
-![Stats](https://github-readme-stats.vercel.app/api?username=alokjhaofficial&show_icons=true&theme=default)
+<!-- Stats -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=alokjhaofficial&show_icons=true&theme=default" />
+</p>
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=alokjhaofficial&theme=github)
+<!-- Streak -->
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alokjhaofficial&theme=default" />
+</p>
+
+<!-- Activity Graph Animation -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=alokjhaofficial&theme=github" />
+</p>
 
 ---
 
-## 🐍 Contribution Activity
+## 🏆 Achievements
 
-![Snake animation](https://github.com/alokjhaofficial/alokjhaofficial/blob/output/github-contribution-grid-snake.svg)
-
----
-
-## 🎯 Career Focus
-
-- Security Operations Center (SOC)
-- Threat Monitoring
-- Incident Response (Beginner Level)
-- Defensive Security Engineering
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=alokjhaofficial&theme=flat&no-frame=true" />
+</p>
 
 ---
 
@@ -82,5 +90,6 @@ Currently learning:
 
 ---
 
-> Security is not about breaking systems.  
-> It’s about protecting them. 🛡️
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,100:1E90FF&height=120&section=footer"/>
+</p>
