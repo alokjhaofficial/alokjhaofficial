@@ -41,37 +41,25 @@ Focused on defensive cybersecurity — detecting threats, monitoring systems, an
 ![Wireshark](https://img.shields.io/badge/Wireshark-1E90FF?style=for-the-badge&logo=wireshark&logoColor=white)
 ![Nmap](https://img.shields.io/badge/Nmap-1E90FF?style=for-the-badge)
 ![Git](https://img.shields.io/badge/Git-1E90FF?style=for-the-badge&logo=git&logoColor=white)
-
----
-
 ---
 
 ## 🌐 Connect With Me
 
-<p align="center">
+<div align="center">
 
-<a href="https://www.instagram.com/alokjha_official/" target="_blank">
-  <img src="https://img.shields.io/badge/🛡️%20Instagram-@alokjha_official-0A192F?style=for-the-badge&logo=instagram&logoColor=00BFFF&labelColor=111827" />
-</a>
-
-<br><br>
-
-<a href="https://x.com/alok_jha83862" target="_blank">
-  <img src="https://img.shields.io/badge/🛡️%20X-@alok_jha83862-0A192F?style=for-the-badge&logo=twitter&logoColor=00BFFF&labelColor=111827" />
-</a>
-
-<br><br>
-
-<a href="mailto:alokjha2007outlook@gmail.com">
-  <img src="https://img.shields.io/badge/🛡️%20Email-alokjha2007outlook@gmail.com-0A192F?style=for-the-badge&logo=gmail&logoColor=00BFFF&labelColor=111827" />
-</a>
-
-</p>
+🛡️ **Instagram**  
+[@alokjha_official](https://www.instagram.com/alokjha_official/)
 
 <br>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A192F,100:1E90FF&height=120&section=footer"/>
-</p>
+🛡️ **X (Twitter)**  
+[@alok_jha83862](https://x.com/alok_jha83862)
+
+<br>
+
+🛡️ **Email**  
+alokjha2007outlook@gmail.com
+
+</div>
 
 ---
