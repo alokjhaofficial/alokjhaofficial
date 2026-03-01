@@ -69,3 +69,7 @@ alokjha2007outlook@gmail.com
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A192F,100:1E90FF&height=2"/>
 </p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A192F,100:1E90FF&height=120&section=footer"/>
+</p>
