@@ -43,28 +43,29 @@ Focused on defensive cybersecurity — detecting threats, monitoring systems, an
 ![Git](https://img.shields.io/badge/Git-1E90FF?style=for-the-badge&logo=git&logoColor=white)
 ---
 
----
+------
 
 ## 🌐 Connect With Me
 
-<p align="center">
+<div align="center">
 
-<a href="https://www.instagram.com/alokjha_official/">
-  <img src="https://img.shields.io/badge/Instagram-@alokjha_official-0A192F?style=flat-square&logo=instagram&logoColor=1E90FF"/>
-</a>
+🛡️ **Instagram**  
+[@alokjha_official](https://www.instagram.com/alokjha_official/)
 
-<br><br>
+<br>
 
-<a href="https://x.com/alok_jha83862">
-  <img src="https://img.shields.io/badge/X-@alok_jha83862-0A192F?style=flat-square&logo=twitter&logoColor=1E90FF"/>
-</a>
+🛡️ **X (Twitter)**  
+[@alok_jha83862](https://x.com/alok_jha83862)
 
-<br><br>
+<br>
 
-<a href="mailto:alokjha2007outlook@gmail.com">
-  <img src="https://img.shields.io/badge/Email-alokjha2007outlook@gmail.com-0A192F?style=flat-square&logo=gmail&logoColor=1E90FF"/>
-</a>
+🛡️ **Email**  
+alokjha2007outlook@gmail.com
 
-</p>
+</div>
 
 ---
+<!-- Animated Footer Line -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A192F,100:1E90FF&height=2"/>
+</p>
